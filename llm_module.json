@@ -1,0 +1,144 @@
+{
+    "date_range": {
+        "start_date": "2024-04-15",
+        "end_date": "2024-04-21"
+    },
+    "daily_metrics": [
+        {
+            "date": "2024-04-15",
+            "activeUsers": 120,
+            "sessions": 150,
+            "engagementRate": 0.65
+        },
+        {
+            "date": "2024-04-16",
+            "activeUsers": 135,
+            "sessions": 160,
+            "engagementRate": 0.68
+        },
+        {
+            "date": "2024-04-17",
+            "activeUsers": 140,
+            "sessions": 170,
+            "engagementRate": 0.66
+        },
+        {
+            "date": "2024-04-18",
+            "activeUsers": 130,
+            "sessions": 155,
+            "engagementRate": 0.64
+        },
+        {
+            "date": "2024-04-19",
+            "activeUsers": 145,
+            "sessions": 175,
+            "engagementRate": 0.7
+        },
+        {
+            "date": "2024-04-20",
+            "activeUsers": 150, 
+            "sessions": 180,
+            "engagementRate": 0.72
+        },
+        {
+            "date": "2024-04-21",
+            "activeUsers": 155,
+            "sessions": 185,
+            "engagementRate": 0.71
+        }
+    ],
+    "top_pages": [
+        {
+            "pagePath": "/home",
+            "screenPageViews": 520
+        },
+        {
+            "pagePath": "/products",
+            "screenPageViews": 430
+        },
+        {
+            "pagePath": "/contact",
+            "screenPageViews": 210
+        },
+        {
+            "pagePath": "/blog",
+            "screenPageViews": 180
+        },
+        {
+            "pagePath": "/about",
+            "screenPageViews": 150
+        }
+    ],
+    "traffic_sources": [
+        {
+            "sessionSourceMedium": "google / organic",
+            "sessions": 500
+        },
+        {
+            "sessionSourceMedium": "direct / (none)",
+            "sessions": 300
+        },
+        {
+            "sessionSourceMedium": "facebook / referral",
+            "sessions": 200
+        },
+        {
+            "sessionSourceMedium": "email / campaign",
+            "sessions": 100
+        }
+    ],
+    "device_category": [
+        {
+            "deviceCategory": "mobile",
+            "sessions": 700
+        },
+        {
+            "deviceCategory": "desktop",
+            "sessions": 250
+        },
+        {
+            "deviceCategory": "tablet",
+            "sessions": 50
+        }
+    ],
+    "geography": [
+        {
+            "country": "United States",
+            "users": 400
+        },
+        {
+            "country": "India",
+            "users": 300
+        },
+        {
+            "country": "United Kingdom",
+            "users": 150
+        },
+        {
+            "country": "Canada",
+            "users": 100
+        },
+        {
+            "country": "Australia",
+            "users": 80
+        }
+    ],
+    "events": [
+        {
+            "eventName": "page_view",
+            "count": 2500
+        },
+        {
+            "eventName": "click",
+            "count": 800
+        },
+        {
+            "eventName": "purchase",
+            "count": 60
+        },
+        {
+            "eventName": "form_submit",
+            "count": 120
+        }
+    ]
+}

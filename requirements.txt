@@ -1,0 +1,26 @@
+# Core Libraries
+pandas
+numpy
+
+# LLM Integration
+langchain
+langchain-ollama
+
+# Language Detection
+langdetect
+
+# Database
+sqlite3  # Built-in with Python, no need to install
+
+# Visualization
+plotly
+streamlit
+
+# Regex & DateTime are standard libraries (no need to install)
+
+# If using specific versions for compatibility, you can pin versions:
+# pandas==1.5.3
+# langchain==0.1.7
+# plotly==5.18.0
+# streamlit==1.32.0
+# langdetect==1.0.9
